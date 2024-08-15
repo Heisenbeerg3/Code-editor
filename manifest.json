@@ -1,0 +1,11 @@
+{
+    "name": "IPL Extension",
+    "version": "1.0.0",
+    "description": "Easy source to know updates on IPL",
+    "manifest_version": 3,
+    "author": "Trinadh Adapa",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "IPL Extension"
+    }
+}
